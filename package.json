@@ -13,5 +13,13 @@
     "milliseconds"
   ],
   "author": "Spencer Holman",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saholman/wait-time.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saholman/wait-time/issues"
+  },
+  "homepage": "https://github.com/saholman/wait-time#readme"
 }
