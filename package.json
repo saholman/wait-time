@@ -1,0 +1,17 @@
+{
+  "name": "wait-time",
+  "version": "0.0.1",
+  "description": "Wait x milliseconds before continuing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "wait",
+    "time",
+    "ms",
+    "milliseconds"
+  ],
+  "author": "Spencer Holman",
+  "license": "Apache-2.0"
+}
